@@ -1,0 +1,2 @@
+First Git Test 
+text add after git add
